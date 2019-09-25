@@ -1,5 +1,7 @@
 # TallerDevOps
-Taller DevOps para Tec Laredo
+Taller DevOps 
+
+![DevOps](imagenes/devops.jpg)
 
  - Agenda
  - Materiales
