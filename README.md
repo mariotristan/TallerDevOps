@@ -1,9 +1,10 @@
 # TallerDevOps
 Taller DevOps 
 
-![DevOps](https://github.com/mariotristan/TallerDevOps/blob/master/imagenes/DevOps.jpg?raw=true)
+![DevOps](https://github.com/mariotristan/TallerDevOps/blob/master/imagenes/DevOps.jpg)
 
  - Agenda
  - Materiales
- - Requisitos
+ - [Requisitos previos para asistentes](requisitos.md)
+ - [Curriculum](cv.md)
  - Referencias
