@@ -1,7 +1,7 @@
 # TallerDevOps
 Taller DevOps 
 
-![DevOps](imagenes/devops.jpg)
+![DevOps](https://github.com/mariotristan/TallerDevOps/blob/master/imagenes/DevOps.jpg?raw=true)
 
  - Agenda
  - Materiales
