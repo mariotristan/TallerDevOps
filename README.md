@@ -7,4 +7,4 @@
  - [Materiales requeridos para instructor](materiales.md)
  - [Requisitos previos para asistentes](requisitos.md)
  - [Curriculum](cv.md)
- - Referencias
+ - [Referencias](referencias.md)
