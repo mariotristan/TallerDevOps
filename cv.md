@@ -7,7 +7,7 @@
 ## Experience ##
 
 ### DevOps Associate Manager. (August 2019 – Present) ###
-#### Accenture ####
+#### [Accenture](https://www.accenture.com/mx-es) ####
 * Create state-of-the-art technical architectures with automation to support complex delivery across a wide range of digital and enterprise applications
 * Work with industry-leading companies such as Microsoft, Amazon, Atlassian, Docker and CHEF, providing access to the latest tools, solutions and training.
 * Harness open source, enterprise and public cloud technologies and leverage the Accenture DevOps Platform to deliver best-of-breed Continuous Integration and Continuous Delivery solutions to enable clients to innovate more quickly and effectively.
@@ -16,7 +16,7 @@
 * Engaging developers in incident handling, ensure that Developers are taking responsibility for their code, making sure that it is working correctly, helping (often taking the role of first responders) to investigate and resolve production problems.
 
 ### Information Technology & Records Manager. (January 2018 – July 2019) #### 
-##### MMREIT Property Administration a Member of FIBRA Macquarie Group #####
+##### [MMREIT Property Administration a Member of FIBRA Macquarie Group](https://www.fibramacquarie.com/) #####
 * Lead the committee to implement new processes for HR, Property management, Office Administration, Invoicing. 
 * Change management and Agile methodologies champion.
 * Running regular checks on the network and data security
@@ -32,7 +32,7 @@
 
 ### Software Engineer Team Lead / Technical Project Manager (July 2014- December 2017) ###
 
-#### Accenture – (Monterrey, Hartford, CDMX) ####
+#### [Accenture](https://www.accenture.com/mx-es) ####
 
 * During my tenure in Accenture I performed several roles.
 As a Technical Project Manager I was handling several migration projects in parallel acting as the point of contact for the project team, business partners and management to provide updates, resolve issues and establish the project delivery way of working, responsible of managing the customer migrations plan with the business, and roll out the migrations to get customers live on the new platform, lead project teams through project life cycle, including approvals and change management process.
@@ -40,7 +40,7 @@ As a Technical Project Manager I was handling several migration projects in para
 * As a Software Engineer Team lead I was responsible to analyze, design, build, test, implement and/or maintain multiple system components or applications for Accenture or our clients, under direct supervision. Work with team members to gather and interpret user/system requirements into design specifications, as directed. Design and code applications to functional and technical programming standards. Develop system specifications and interfaces for components. Create operational documentation for the application. Provide primary support for installation of application releases into production.
 
 ### Systems Coordinator (May 2011 – July 2014) ###
-##### Shared Services Center Information Technology - FEMSA (Monterrey, Nuevo León.) #####
+##### [Shared Services Center Information Technology - FEMSA](https://www.femsa.com/) #####
 
 Contributing elements to help decision making at the same time provide a common language and concepts that allow communication between the teams involved in a project and participate in the implementation of projects of new functionality or integration of new units conform to the approved design and coordinate the support, development and maintenance of the assigned applications. 
  Architecture design of satellite systems, researching new technologies and understanding the architectural Frameworks and best practices, understanding the business domain
