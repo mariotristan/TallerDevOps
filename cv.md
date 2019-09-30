@@ -59,12 +59,13 @@ Responsibilities:
 * Generate budget estimates for new projects
 
 ### Senior Developer  ( September 2007 – May 2011.) ###
-##### Informatica de América (Guadalupe , Nuevo León.) #####
-Assigned as a resource to FEMSA for the development of ASP.Net applications. 
-Carrying out modification and optimization of existing applications,  creation of new modules in ASP.net  and ASP 3.0. Implementation of Continuous Integration , XP, N-Tier development, MVC.
+##### [Informatica de América](http://informaticadeamerica.com/) #####
+- Assigned as a resource to FEMSA for the development of ASP.Net applications. 
+- Carrying out modification and optimization of existing applications,  creation of new modules in ASP.net  and ASP 3.0. 
+- Implementation of Continuous Integration , XP, N-Tier development, MVC.
 
 ### Developer (May 2006 – September 2007) ###
-##### Ermilo Richer Customs Agency/TPW INC. (Nuevo Laredo, Tamaulipas/ Laredo Tx. USA) #####
-* Application development in ASP.Net for Integration Systems developed in Power Builder and Fox Pro.
-* Development of Application of OCR in VB.NET for automatic handling of Records. 
+##### [Ermilo Richer Customs Agency/TPW INC.](https://ericher.com/es/) #####
+* Application development using ASP.Net for  Systems integration developed in Power Builder and Fox Pro.
+* Application development for OCR using VB.NET for automatic handling of records. 
 * Technical support to end users.                                                                                                               
